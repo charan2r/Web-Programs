@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="first.xsl" type="text/xsl"?>
+<courses>
+    <course>
+        <name>Data science</name>
+        <duration>12 months</duration>
+        <startdate>1/9/2021</startdate>
+        <totalfees>rs.200000</totalfees>
+        <discount></discount>
+        <diplomaorHighdiploma>diploma</diplomaorHighdiploma>
+    </course>
+    <course>
+        <name>cloud computing</name>
+        <duration>8 months</duration>
+        <startdate>15/9/2021</startdate>
+        <totalfees>rs.175000</totalfees>
+        <discount>5%</discount>
+        <diplomaorHighdiploma>diploma</diplomaorHighdiploma>
+    </course>
+    <course>
+        <name>cyber security</name>
+        <duration>12 months</duration>
+        <startdate>1/10/2021</startdate>
+        <totalfees>rs.150000</totalfees>
+        <discount>10%</discount>
+        <diplomaorHighdiploma>higher diploma</diplomaorHighdiploma>
+    </course>
+    <course>
+        <name>DevOps</name>
+        <duration>12 months</duration>
+        <startdate>1/9/2021</startdate>
+        <totalfees>rs.250000</totalfees>
+        <discount></discount>
+        <diplomaorHighdiploma>diploma</diplomaorHighdiploma>
+    </course>
+    <course>
+        <name>IoT</name>
+        <duration>8 months</duration>
+        <startdate>20/9/2021</startdate>
+        <totalfees>rs.150000</totalfees>
+        <discount>15%</discount>
+        <diplomaorHighdiploma>higher diploma</diplomaorHighdiploma>
+    </course>
+    <course>
+        <name>AI AND ML</name>
+        <duration>8 months</duration>
+        <startdate>15/9/2021</startdate>
+        <totalfees>rs.250000</totalfees>
+        <discount></discount>
+        <diplomaorHighdiploma>diploma</diplomaorHighdiploma>
+    </course>
+    <course>
+        <name>full stack</name>
+        <duration>9 months</duration>
+        <startdate>1/9/2021</startdate>
+        <totalfees>rs.175000</totalfees>
+        <discount></discount>
+        <diplomaorHighdiploma>diploma</diplomaorHighdiploma>
+    </course>
+    <course>
+        <name>ethical hacking</name>
+        <duration>112 months</duration>
+        <startdate>15/9/2021</startdate>
+        <totalfees>rs.1500000</totalfees>
+        <discount>15%</discount>
+        <diplomaorHighdiploma>diploma</diplomaorHighdiploma>
+    </course>
+</courses>

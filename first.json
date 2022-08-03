@@ -1,0 +1,70 @@
+{
+	"courses": {
+		"course": [
+			{
+				"name": "Data science",
+				"duration": "12 months",
+				"startdate": "1/9/2021",
+				"totalfees": "rs.200000",
+				"discount": "",
+				"diplomaorHighdiploma": "diploma"
+			},
+			{
+				"name": "cloud computing",
+				"duration": "8 months",
+				"startdate": "15/9/2021",
+				"totalfees": "rs.175000",
+				"discount": "5%",
+				"diplomaorHighdiploma": "diploma"
+			},
+			{
+				"name": "cyber security",
+				"duration": "12 months",
+				"startdate": "1/10/2021",
+				"totalfees": "rs.150000",
+				"discount": "10%",
+				"diplomaorHighdiploma": "higher diploma"
+			},
+			{
+				"name": "DevOps",
+				"duration": "12 months",
+				"startdate": "1/9/2021",
+				"totalfees": "rs.250000",
+				"discount": "",
+				"diplomaorHighdiploma": "diploma"
+			},
+			{
+				"name": "IoT",
+				"duration": "8 months",
+				"startdate": "20/9/2021",
+				"totalfees": "rs.150000",
+				"discount": "15%",
+				"diplomaorHighdiploma": "higher diploma"
+			},
+			{
+				"name": "AI AND ML",
+				"duration": "8 months",
+				"startdate": "15/9/2021",
+				"totalfees": "rs.250000",
+				"discount": "",
+				"diplomaorHighdiploma": "diploma"
+			},
+			{
+				"name": "full stack",
+				"duration": "9 months",
+				"startdate": "1/9/2021",
+				"totalfees": "rs.175000",
+				"discount": "",
+				"diplomaorHighdiploma": "diploma"
+			},
+			{
+				"name": "ethical hacking",
+				"duration": "112 months",
+				"startdate": "15/9/2021",
+				"totalfees": "rs.1500000",
+				"discount": "15%",
+				"diplomaorHighdiploma": "diploma"
+			}
+		]
+	}
+}
